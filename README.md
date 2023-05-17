@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a collage student at UFCG<br>👯 I’m looking to learn and built all types of systems<br>🌱 I’m currently learning Django<br>💬 Ask me about Anime<br>⚡ Fun fact: I hate olives
+🔭 I’m currently a college student at UFCG<br>👯 I’m looking to learn how to build Full-Stack Websites<br>🌱 I’m currently learning React And Laravel<br>💬 Ask me about Anime<br>⚡ Fun fact: I hate olives
 
 
 ## 🌐 Socials:
